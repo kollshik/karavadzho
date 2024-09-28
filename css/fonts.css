@@ -1,0 +1,20 @@
+@font-face {
+  font-family: Milonga;
+  font-weight: 400;
+  font-style: normal;
+  src: local("Lato"),
+       url("../fonts/Milonga-Regular.woff2") format('woff2'),
+       url("../fonts/Milonga-Regular.woff") format('woff'),
+       url("../fonts/Milonga-Regular.eot") format('eot');
+  font-display: swap;
+}
+@font-face {
+  font-family:"Marcellus SC";
+  font-weight: 400;
+  font-style: normal;
+  src: local("Lato"),
+       url("../fonts/MarcellusSC-Regular.woff2") format('woff2'),
+       url("../fonts/MarcellusSC-Regular.woff") format('woff'),
+       url("../fonts/MarcellusSC-Regular.eot") format('eot');
+  font-display: swap;
+}
