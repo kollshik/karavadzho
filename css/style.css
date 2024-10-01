@@ -5,6 +5,7 @@ html,
 body {
   color: #fff;
   font-family: "Modern Antiqua";
+  scroll-behavior: smooth;
 
   & .header {
     text-transform: uppercase;
@@ -986,4 +987,3 @@ a {
   }
 }
 
-Новая правка в сыы
