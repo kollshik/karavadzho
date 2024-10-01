@@ -313,7 +313,6 @@ a {
 
 .biography__portrat {
   width: 280px;
-  height: 330px;
   overflow: hidden;
 }
 
@@ -667,7 +666,7 @@ a {
 /* ============================== MUSEI ============================== */
 
 .musei {
-  height: 500px;
+  min-height: 500px;
   position: relative;
   z-index: 1;
 
@@ -797,9 +796,6 @@ a {
     width: 150px;
   }
 }
-
-
-
 
 
 /* ============================== OPEN CLASS ============================== */
